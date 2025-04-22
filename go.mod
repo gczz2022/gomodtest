@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/gczz2022/gomodtest
 
 go 1.23.3
 
